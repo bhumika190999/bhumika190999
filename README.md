@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Bhumika.
-- 👀 I’m interested in game development.
-- 🌱 I’m currently learning game development.
-- 💞️ I’m looking to collaborate on my future game projects.
 - 📫 How to reach me bhumika190999@gmail.com
 
 <!---
